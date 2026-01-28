@@ -397,6 +397,3 @@ Think of a URL like a full postal address:
 - Path → room inside  
 - Query → delivery instructions  
 - Fragment → note for the receiver  
-
-Once you see URLs this way,  
-they stop being confusing forever.
